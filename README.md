@@ -6,7 +6,7 @@ This repository contains the source code used for the experiments conducted in t
 
 - `no_equivalence.py` and `equivalence.py` execute Naive DQN and Equivalent DQN, respectively.
 - To run the experiments, please ensure the Equivalent-DQN Conda environment is installed and activated.
-- To see the result, execute 'plot_result_comparison.py'.
+- To see the result, execute `plot_result_comparison.py`.
 
 ## Installation
 
