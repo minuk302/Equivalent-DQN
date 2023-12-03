@@ -6,7 +6,7 @@ import copy
 def define_parameters():
 	params = Shared.parameters()
 	params['memory_size_for_abstraction'] = params['memory_size']
-	params['batch_size_for_abstraction'] = 16
+	params['batch_size_for_abstraction'] = 32
 	params['abstraction_learning_rate'] = 0.001
 	params['abstract_state_space_dimmension'] = 20
 	params['K_for_KNN'] = 11
